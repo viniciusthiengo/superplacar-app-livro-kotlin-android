@@ -4,18 +4,18 @@ ADDED from /Users/viniciusthiengo/Desktop/Applications/ThiengoWebBlog/app/src/ma
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/ThiengoWebBlog/app/src/main/AndroidManifest.xml:2:1-27:12
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/ThiengoWebBlog/app/src/main/AndroidManifest.xml:2:1-27:12
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/ThiengoWebBlog/app/src/main/AndroidManifest.xml:2:1-27:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d61e2c13263fa6397516c03d3604f4a2/AndroidManifest.xml:17:1-22:12
-MERGED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/d7c055ca3a9fc411df11ce064c2ed561/AndroidManifest.xml:2:1-28:12
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e9329b91833fbe01d9ac018cdb2f0101/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/33413044b760872a6753df17fe61e28d/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/16ed920d368bff0b84141c9d09f28990/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ea8e7ba80bf4d6d5218920aa60b982de/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/27d0281fe9276007ed2e80ed7a7fd2f4/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/94e4b09cdeabf8d328d24bc4c1dfdac2/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/08983a4c94a4b8c92dde714cffeb792d/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e91947f6813e60cae61558d9f728181c/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/db21eebf5deca505c791e193716e38b1/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/79d70489d563f4ceb6ec4cf9747d267e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f95e696edf0db39fa1ca1c335bfeae5e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/6c7b3b57fb06418cd4c35f66d141ec69/AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ba3ad6ed89d9b005f902e68cd94f7570/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a4c4d28899f105cf534a4ca96e0e5bbe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/cd4a049d69fb016df2ba2b9c013f69e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b414d6a202c417f7454c2345880eb55b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/94701650a330e0365324d009aba9d1a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e4c34f5d7360e173b00f03f04899f689/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2102b8cccb5786212e1b895383abc778/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6d869fe56eef4873caee636ab4094b17/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c9c001dcef7a0070b066e24d2dd7326b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0df2620d5f6ffeed2c97e91977f5d508/AndroidManifest.xml:17:1-22:12
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/ThiengoWebBlog/app/src/main/AndroidManifest.xml:2:1-27:12
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/ThiengoWebBlog/app/src/main/AndroidManifest.xml:2:1-27:12
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/ThiengoWebBlog/app/src/main/AndroidManifest.xml:2:1-27:12
@@ -47,8 +47,8 @@ ADDED from /Users/viniciusthiengo/Desktop/Applications/ThiengoWebBlog/app/src/ma
 		ADDED from /Users/viniciusthiengo/Desktop/Applications/ThiengoWebBlog/app/src/main/AndroidManifest.xml:7:22-73
 application
 ADDED from /Users/viniciusthiengo/Desktop/Applications/ThiengoWebBlog/app/src/main/AndroidManifest.xml:9:5-25:19
-MERGED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/d7c055ca3a9fc411df11ce064c2ed561/AndroidManifest.xml:9:5-26:19
-MERGED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/d7c055ca3a9fc411df11ce064c2ed561/AndroidManifest.xml:9:5-26:19
+MERGED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/6c7b3b57fb06418cd4c35f66d141ec69/AndroidManifest.xml:9:5-26:19
+MERGED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/6c7b3b57fb06418cd4c35f66d141ec69/AndroidManifest.xml:9:5-26:19
 	android:supportsRtl
 		ADDED from /Users/viniciusthiengo/Desktop/Applications/ThiengoWebBlog/app/src/main/AndroidManifest.xml:16:9-35
 	android:label
@@ -83,30 +83,30 @@ uses-sdk
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/ThiengoWebBlog/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/ThiengoWebBlog/app/src/main/AndroidManifest.xml
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/ThiengoWebBlog/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d61e2c13263fa6397516c03d3604f4a2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d61e2c13263fa6397516c03d3604f4a2/AndroidManifest.xml:20:5-44
-MERGED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/d7c055ca3a9fc411df11ce064c2ed561/AndroidManifest.xml:7:5-44
-MERGED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/d7c055ca3a9fc411df11ce064c2ed561/AndroidManifest.xml:7:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e9329b91833fbe01d9ac018cdb2f0101/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e9329b91833fbe01d9ac018cdb2f0101/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/33413044b760872a6753df17fe61e28d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/33413044b760872a6753df17fe61e28d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/16ed920d368bff0b84141c9d09f28990/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/16ed920d368bff0b84141c9d09f28990/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ea8e7ba80bf4d6d5218920aa60b982de/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ea8e7ba80bf4d6d5218920aa60b982de/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/27d0281fe9276007ed2e80ed7a7fd2f4/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/27d0281fe9276007ed2e80ed7a7fd2f4/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/94e4b09cdeabf8d328d24bc4c1dfdac2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/94e4b09cdeabf8d328d24bc4c1dfdac2/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/08983a4c94a4b8c92dde714cffeb792d/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/08983a4c94a4b8c92dde714cffeb792d/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e91947f6813e60cae61558d9f728181c/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e91947f6813e60cae61558d9f728181c/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/db21eebf5deca505c791e193716e38b1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/db21eebf5deca505c791e193716e38b1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/79d70489d563f4ceb6ec4cf9747d267e/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/79d70489d563f4ceb6ec4cf9747d267e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f95e696edf0db39fa1ca1c335bfeae5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f95e696edf0db39fa1ca1c335bfeae5e/AndroidManifest.xml:20:5-44
+MERGED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/6c7b3b57fb06418cd4c35f66d141ec69/AndroidManifest.xml:7:5-44
+MERGED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/6c7b3b57fb06418cd4c35f66d141ec69/AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ba3ad6ed89d9b005f902e68cd94f7570/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ba3ad6ed89d9b005f902e68cd94f7570/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a4c4d28899f105cf534a4ca96e0e5bbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a4c4d28899f105cf534a4ca96e0e5bbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/cd4a049d69fb016df2ba2b9c013f69e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/cd4a049d69fb016df2ba2b9c013f69e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b414d6a202c417f7454c2345880eb55b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b414d6a202c417f7454c2345880eb55b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/94701650a330e0365324d009aba9d1a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/94701650a330e0365324d009aba9d1a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e4c34f5d7360e173b00f03f04899f689/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e4c34f5d7360e173b00f03f04899f689/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2102b8cccb5786212e1b895383abc778/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2102b8cccb5786212e1b895383abc778/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6d869fe56eef4873caee636ab4094b17/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6d869fe56eef4873caee636ab4094b17/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c9c001dcef7a0070b066e24d2dd7326b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c9c001dcef7a0070b066e24d2dd7326b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0df2620d5f6ffeed2c97e91977f5d508/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0df2620d5f6ffeed2c97e91977f5d508/AndroidManifest.xml:20:5-44
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/ThiengoWebBlog/app/src/main/AndroidManifest.xml
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/ThiengoWebBlog/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -118,30 +118,30 @@ INJECTED from /Users/viniciusthiengo/Desktop/Applications/ThiengoWebBlog/app/src
 		ADDED from /Users/viniciusthiengo/Desktop/Applications/ThiengoWebBlog/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/viniciusthiengo/Desktop/Applications/ThiengoWebBlog/app/src/main/AndroidManifest.xml
 activity#com.blankj.utilcode.util.PermissionUtils$PermissionActivity
-ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/d7c055ca3a9fc411df11ce064c2ed561/AndroidManifest.xml:10:9-15:75
+ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/6c7b3b57fb06418cd4c35f66d141ec69/AndroidManifest.xml:10:9-15:75
 	android:multiprocess
-		ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/d7c055ca3a9fc411df11ce064c2ed561/AndroidManifest.xml:13:13-40
+		ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/6c7b3b57fb06418cd4c35f66d141ec69/AndroidManifest.xml:13:13-40
 	android:windowSoftInputMode
-		ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/d7c055ca3a9fc411df11ce064c2ed561/AndroidManifest.xml:15:13-72
+		ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/6c7b3b57fb06418cd4c35f66d141ec69/AndroidManifest.xml:15:13-72
 	android:configChanges
-		ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/d7c055ca3a9fc411df11ce064c2ed561/AndroidManifest.xml:12:13-74
+		ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/6c7b3b57fb06418cd4c35f66d141ec69/AndroidManifest.xml:12:13-74
 	android:theme
-		ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/d7c055ca3a9fc411df11ce064c2ed561/AndroidManifest.xml:14:13-55
+		ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/6c7b3b57fb06418cd4c35f66d141ec69/AndroidManifest.xml:14:13-55
 	android:name
-		ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/d7c055ca3a9fc411df11ce064c2ed561/AndroidManifest.xml:11:13-87
+		ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/6c7b3b57fb06418cd4c35f66d141ec69/AndroidManifest.xml:11:13-87
 provider#android.support.v4.content.FileProvider4Util
-ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/d7c055ca3a9fc411df11ce064c2ed561/AndroidManifest.xml:17:9-25:20
+ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/6c7b3b57fb06418cd4c35f66d141ec69/AndroidManifest.xml:17:9-25:20
 	android:grantUriPermissions
-		ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/d7c055ca3a9fc411df11ce064c2ed561/AndroidManifest.xml:21:13-47
+		ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/6c7b3b57fb06418cd4c35f66d141ec69/AndroidManifest.xml:21:13-47
 	android:authorities
-		ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/d7c055ca3a9fc411df11ce064c2ed561/AndroidManifest.xml:19:13-69
+		ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/6c7b3b57fb06418cd4c35f66d141ec69/AndroidManifest.xml:19:13-69
 	android:exported
-		ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/d7c055ca3a9fc411df11ce064c2ed561/AndroidManifest.xml:20:13-37
+		ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/6c7b3b57fb06418cd4c35f66d141ec69/AndroidManifest.xml:20:13-37
 	android:name
-		ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/d7c055ca3a9fc411df11ce064c2ed561/AndroidManifest.xml:18:13-72
+		ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/6c7b3b57fb06418cd4c35f66d141ec69/AndroidManifest.xml:18:13-72
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/d7c055ca3a9fc411df11ce064c2ed561/AndroidManifest.xml:22:13-24:68
+ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/6c7b3b57fb06418cd4c35f66d141ec69/AndroidManifest.xml:22:13-24:68
 	android:resource
-		ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/d7c055ca3a9fc411df11ce064c2ed561/AndroidManifest.xml:24:17-65
+		ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/6c7b3b57fb06418cd4c35f66d141ec69/AndroidManifest.xml:24:17-65
 	android:name
-		ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/d7c055ca3a9fc411df11ce064c2ed561/AndroidManifest.xml:23:17-67
+		ADDED from [com.blankj:utilcode:1.16.4] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/utilcode-1.16.4.aar/6c7b3b57fb06418cd4c35f66d141ec69/AndroidManifest.xml:23:17-67

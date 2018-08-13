@@ -6,7 +6,7 @@ android {
     compileSdkVersion 27
     defaultConfig {
         applicationId "br.com.thiengo.thiengowebblog"
-        minSdkVersion 15
+        minSdkVersion 16
         targetSdkVersion 27
         versionCode 1
         versionName "1.0"
@@ -30,7 +30,4 @@ dependencies {
 
     /* ANDROID UTIL CODE */
     implementation 'com.blankj:utilcode:1.16.4'
-}
-repositories {
-    mavenCentral()
 }
